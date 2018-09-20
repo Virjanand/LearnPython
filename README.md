@@ -10,4 +10,5 @@ Following the course from http://learnpython.org/
 * 007_conditions.py: booleans, in, is, not
 * 008_loops.py: for, while, break, continue, else in for loop
 * 009_functions.py: write functions, call functions
+* 010_classesAndObjects.py: encapsulation, object variables, object functions
 
