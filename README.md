@@ -12,3 +12,4 @@ Following the course from http://learnpython.org/
 * 009_functions.py: write functions, call functions
 * 010_classesAndObjects.py: encapsulation, object variables, object functions
 * 011_dictionaries.py: key/value, iterating, removing
+* 012_modulesAndPackages.py: writing, importing, namespace, module initialization
