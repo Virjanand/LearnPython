@@ -42,3 +42,22 @@
 # dir(urllib) displays all functions in module
 # help(urllib.urlopen) gives information on function
 
+# Writing packages
+# Packages are namespaces which contain multiple packages and modules
+# Each package is a directory which must contain file __init__.py
+# import bar module from foo directory: import foo.bar or from foo import bar
+# usage for import foo.bar always include foo., else bar in current namespace
+# In __init__.py you can specify which modules to export as API
+# by overriding the __all__ variable in __init__.py: __all__ = ["bar"]
+# this exposes only bar module.
+
+# Exercise: print alphabetically sorted list of all functions in re module
+# which contain the word find.
+import re
+
+find_members = []
+for member in dir(re):
+    if "find" in member:
+        find_members.append(member)
+
+print(sorted(find_members))
