@@ -13,3 +13,4 @@ Following the course from http://learnpython.org/
 * 010_classesAndObjects.py: encapsulation, object variables, object functions
 * 011_dictionaries.py: key/value, iterating, removing
 * 012_modulesAndPackages.py: writing, importing, namespace, module initialization
+* 013_numpyArrays.py: element-wise calculations, subsetting
