@@ -14,3 +14,4 @@ Following the course from http://learnpython.org/
 * 011_dictionaries.py: key/value, iterating, removing
 * 012_modulesAndPackages.py: writing, importing, namespace, module initialization
 * 013_numpyArrays.py: element-wise calculations, subsetting
+* 014_pandas.py: dataFrames, indexing
