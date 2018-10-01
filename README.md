@@ -16,3 +16,4 @@ Following the course from http://learnpython.org/
 * 013_numpyArrays.py: element-wise calculations, subsetting
 * 014_pandas.py: dataFrames, indexing
 * 015_generators.py: generators
+* 016_listComprehensions.py: list comprehensions
