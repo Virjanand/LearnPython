@@ -18,4 +18,4 @@ Following the course from http://learnpython.org/
 * 015_generators.py: generators
 * 016_listComprehensions.py: list comprehensions
 * 017_multipleFunctionArguments.py: variable number of function arguments
-test
+* 018_regularExpressions.py: regexp
