@@ -20,3 +20,4 @@ Following the course from http://learnpython.org/
 * 017_multipleFunctionArguments.py: variable number of function arguments
 * 018_regularExpressions.py: regexp
 * 019_exceptionHandling.py: try/except block
+* 020_sets.py: intersection, symmetric_difference, difference, union
