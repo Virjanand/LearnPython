@@ -23,3 +23,4 @@ Following the course from http://learnpython.org/
 * 020_sets.py: intersection, symmetric_difference, difference, union
 * 021_serialization.py: loads json, dumps, cPickle
 * 022_partialFunctions.py: functools
+* 023_codeIntrospection.py: help, dir, hasattr, id, type, repr, callable, issubclass, isinstance
