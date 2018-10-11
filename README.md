@@ -21,4 +21,5 @@ Following the course from http://learnpython.org/
 * 018_regularExpressions.py: regexp
 * 019_exceptionHandling.py: try/except block
 * 020_sets.py: intersection, symmetric_difference, difference, union
-* 021_serialization.py: loads json, dumps, cPickle, 
+* 021_serialization.py: loads json, dumps, cPickle
+* 022_partialFunctions.py: functools
