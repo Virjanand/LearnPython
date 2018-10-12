@@ -24,3 +24,4 @@ Following the course from http://learnpython.org/
 * 021_serialization.py: loads json, dumps, cPickle
 * 022_partialFunctions.py: functools
 * 023_codeIntrospection.py: help, dir, hasattr, id, type, repr, callable, issubclass, isinstance
+* 024_closures.py: nested function 
